@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest --watch  --verbose"
+  },
+ 
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
